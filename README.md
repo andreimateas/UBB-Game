@@ -1,5 +1,7 @@
 # UBB RunTimeTerror Game
 
+![image](https://user-images.githubusercontent.com/23705132/149385970-0d09d16e-3f3c-41ff-8747-f11be77cc481.png)
+
 ## Documentație tehnică pentru jocul UBB RunTimeTerror Game
 
 ### Cuprins
